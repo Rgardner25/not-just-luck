@@ -38,12 +38,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Marjona6/not-just-luck-thinkful-full-stack-capstone.git"
+    "url": "https://github.com/Rgardner25/not-just-luck/blob/master/not-just-luck-thinkful-full-stack-capstone-master/not-just-luck-thinkful-full-stack-capstone-master/package.json"
   },
-  "author": "Meryem Yanar",
+  "author": "Renee Gardner",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Marjona6/not-just-luck-thinkful-full-stack-capstone/issues"
-  },
-  "homepage": "https://github.com/Marjona6/not-just-luck-thinkful-full-stack-capstone#readme"
-}
+  "bugs": }
+ 
+
